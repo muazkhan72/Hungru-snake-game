@@ -35,7 +35,7 @@ Hungry-Snake-Game/
 
 ## 📸 Screenshot
 
-![Hungry Snake Game Screenshot](./image/screenshot.png)
+![Hungry Snake Game Screenshot](./image/Screenshot.png)
 
 ---
 
