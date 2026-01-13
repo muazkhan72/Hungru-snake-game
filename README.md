@@ -43,7 +43,7 @@ Hungry-Snake-Game/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hungry-snake-game.git
+   git clone https://github.com/muazkhan72/Hungru-snake-game.git
 2.Open the project folder:
   cd hungry-snake-game
 3. Open index.html in your browser.
